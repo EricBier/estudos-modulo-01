@@ -1,0 +1,27 @@
+Quando for fazer o commit
+
+==> Abrir o git bash dentro da pagina do projeto
+
+$git status
+
+==> visualiza a situação do projeto
+
+$git add .
+
+==> Adiciona todos os arquivos pro commit
+
+$git commit -m "Aqui escreve o que foi feito"
+
+==> Colocamos as informacoes do commit
+    e colocamos o projeto na fila
+
+$git push 
+
+==> empura o projeto pro repositorio
+
+$git clone + http/
+
+
+
+$git pull ==> para poder puxar os arquivo do tio mazinho
+ 
